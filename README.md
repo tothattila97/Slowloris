@@ -16,6 +16,6 @@ the application will run with the default values.
 
 ``` 
 1. git clone https://github.com/tothattila97/Slowloris.git
-2. cd Slowloris
+2. cd Slowloris\SlowLoris
 3. Program.exe -h <HOST_ADDRESS> -p <HOST_PORT> -c <NUMBER_OF_SOCKETS>
 ``` 
